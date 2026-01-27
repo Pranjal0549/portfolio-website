@@ -232,5 +232,11 @@ main section a img:hover {
 main section strong {
   color: #5a3525;
 }
-
+.gallery-note {
+  font-size: 0.85rem;
+  opacity: 0.85;
+  margin-bottom: 1.5rem;
+  font-family: "Arial", Arial, sans-serif;
+  font-style: italic;
+}
 
